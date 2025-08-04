@@ -16,8 +16,36 @@ This README is my personal playground to showcase my journey, skills, and aspira
 - **🧪 MLOps & APIs:** Flask Deployment, REST API Development, Postman Testing
 - **🎯 Interests:** Problem-Solving, Competitive Programming, Open-Source Contributions,     Hackathons
 
+---
+## 🏆 Projects:
 
+# Distributed Database Access System
 
+## 📌 Project Overview
+This project demonstrates **Gateway-based access to multiple Databases**, such as **MongoDB** and **MySQL**, through a single unified API interface using Flask.
+
+The main objective is to **enable seamless communication between client applications and multiple database systems** through a centralized gateway, improving flexibility, scalability, and modularity.
+
+## 🎯 Key Features
+- Access multiple databases (e.g., MongoDB and MySQL) via a single gateway
+- Modular design to add more databases in the future
+- Tested using Postman
+
+## 🛠 Tech Stack
+- **Backend Framework:** Flask
+- **Databases:** MongoDB, MySQL
+- **Libraries:** `flask`, `requests`, `jsonify`
+## 🧰 Tools
+- VS Code / PyCharm  
+- Postman  
+- Jupyter Notebook  
+- Git
+
+## 🔧 How It Works
+- A Flask-based API acts as a **gateway**.
+- Depending on the requests it **routes** operations to the correct **underlying database** (MySQL or MongoDB).
+- Responses are handled and returned in JSON format.
+- 🔗 **[Project Link](https://github.com/amargajula123/distributed-db-gateway-app)**
 
 ---
 ## 📬 Connect with Me:
