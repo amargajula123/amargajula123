@@ -28,7 +28,8 @@ This README is my playground to showcase my journey, skills, and aspirations. Le
 - 💼 **LinkedIn:** [Grishma Gedela](www.linkedin.com/in/amar-gajula-6a29b9371)
 
 - 🎥 **YouTube:** [Amar Youtube](http://www.youtube.com/@nextgengamer-k4u)  
-- 🏗️ **GitHub:** [Amar-Gajula](https://github.com/grishma-gedela)  
+- 🏗️ **GitHub:** [Amar-Gajula](https://github.com/amargajula123)  
+
 
 ---
 ## 💡 Feedback Welcome!
