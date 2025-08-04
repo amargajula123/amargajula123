@@ -6,8 +6,6 @@ I'm **Amar**, a **postgraduate in Master of Computer Applications (MCA)** from A
 
 This README is my personal playground to showcase my journey, skills, and aspirations in the tech world. Let’s dive in!
 
-This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
-
 ---
 ## 🚀 Skills & Interests:
 - **💻 Programming Languages:** Python (OOPs), SQL
