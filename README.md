@@ -78,11 +78,11 @@ Gateway-based access to multiple databases like **MongoDB** and **MySQL** throug
 ---
 ## 📬 Connect with Me:
 
-- 📧 **Email:** amarknrg@gmail.com
+- 📧 **Email   :** amarknrg@gmail.com
 - 💼 **LinkedIn:** [Amar-Gajula](https://www.linkedin.com/in/amar-gajula-6a29b9371)
 
-- 🎥 **YouTube:** [Amar Youtube](http://www.youtube.com/@nextgengamer-k4u)  
-- 🏗️ **GitHub:** [Amar-Gajula](https://github.com/amargajula123)  
+- 🎥 **YouTube :** [Amar Youtube](http://www.youtube.com/@nextgengamer-k4u)  
+- 🏗️ **GitHub  :** [Amar-Gajula](https://github.com/amargajula123)  
 
 ---
 ## 💡 Feedback Welcome!
