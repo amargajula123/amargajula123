@@ -33,7 +33,7 @@ This README is my personal playground to showcase my journey, skills, and aspira
 ### [🏡 MLOps - California House Price Prediction](https://github.com/amargajula123/MLOps_California_House_Price_Prediction)
 
 📌 **Overview**  
-* This project showcases an **end-to-end MLOps pipeline** for predicting California house prices using multiple regression algorithms.  
+** This project showcases an **end-to-end MLOps pipeline** for predicting California house prices using multiple regression algorithms.  
 * The system automatically selects the **best-performing model** based on the evaluation metrics defined in a config file. 
 * The aim is to demonstrate **modular, configurable, and scalable ML workflows** using Python and MLOps best practices.
 
