@@ -43,10 +43,10 @@ Automatically selects the **best-performing model** using configurable evaluatio
 - Flask API for serving predictions
 - Model drift monitoring with Evidently
 
-🛠 **Tech Stack**
+🛠 **Tech Stack**   
 `Python` | `scikit-learn` | `Pandas` | `NumPy` | `PyYAML` | `Flask` | `Evidently`
 
-🧰 **Tools Used**  
+🧰 **Tools Used**    
 `VS Code` | `Git` | `Jupyter Notebook` | `Anaconda` | `Postman` | `Google Colab`
 
 
@@ -65,10 +65,10 @@ Gateway-based access to multiple databases like **MongoDB** and **MySQL** throug
 - Routes operations based on client requests
 - Tested using Postman
 
-🛠 **Tech Stack**
+🛠 **Tech Stack**    
 `Flask` | `MongoDB` | `MySQL` | `Postman` | `Python Requests`
 
-🧰 **Tools Used**  
+🧰 **Tools Used**    
 `PyCharm` | `Git` | `Jupyter Notebook` | `Anaconda` | `Postman` | `Google Colab`
 
 
