@@ -33,9 +33,9 @@ This README is my personal playground to showcase my journey, skills, and aspira
 ### [🏡 MLOps - California House Price Prediction](https://github.com/amargajula123/MLOps_California_House_Price_Prediction)
 
 📌 **Overview**  
-This project showcases an **end-to-end MLOps pipeline** for predicting California house prices using multiple regression algorithms.  
-The system automatically selects the **best-performing model** based on the evaluation metrics defined in a config file.
-The aim is to demonstrate **modular, configurable, and scalable ML workflows** using Python and MLOps best practices.
+* This project showcases an **end-to-end MLOps pipeline** for predicting California house prices using multiple regression algorithms.  
+* The system automatically selects the **best-performing model** based on the evaluation metrics defined in a config file. 
+* The aim is to demonstrate **modular, configurable, and scalable ML workflows** using Python and MLOps best practices.
 
 🎯 **Key Features**
 - Model list and hyperparameters from `config.yaml`
@@ -57,9 +57,9 @@ The aim is to demonstrate **modular, configurable, and scalable ML workflows** u
 
 ### [🗃️ Distributed Database Access System](https://github.com/amargajula123/distributed-db-gateway-app)
 
-📌 **Overview** 
-This project demonstrates **Gateway-based access to multiple Databases**, such as **MongoDB** and **MySQL**, through a single unified API interface using Flask.
-The main objective is to **enable seamless communication between client applications and multiple database systems** through a centralized gateway, improving flexibility, scalability, and modularity.
+📌 **Overview**   
+* This project demonstrates **Gateway-based access to multiple Databases**, such as **MongoDB** and **MySQL**, through a single unified API interface using Flask.
+* The main objective is to **enable seamless communication between client applications and multiple database systems** through a centralized gateway, improving flexibility, scalability, and modularity.
 
 🎯 **Key Features**
 - Centralized API gateway to interact with MongoDB & MySQL
