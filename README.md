@@ -94,3 +94,66 @@ The main objective is to **enable seamless communication between client applicat
 ---
 ## 💡 Feedback Welcome!
 I'm still learning and growing as a developer, so I **welcome constructive feedback** and suggestions. Feel free to reach out on any platform above—**let's connect!** 🚀
+
+
+<h1 align="center">Hi there, I'm Amar 👋</h1>
+
+<p align="center">
+  💻 Passionate about MLOps, Backend Systems, and Scalable Software  
+  <br>
+  📚 MCA Graduate | 🚀 Exploring AI, APIs, and Architecture Design
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### [🏡 MLOps - California House Price Prediction](https://github.com/amargajula123/MLOps_California_House_Price_Prediction)
+
+📌 **Overview**  
+End-to-end **MLOps pipeline** for California house price prediction using multiple regression algorithms.  
+Automatically selects the **best-performing model** using configurable evaluation metrics.
+
+🎯 **Key Features**
+- Model list and hyperparameters from `config.yaml`
+- Automatic best model selection
+- Data preprocessing & stratified train-test split
+- Flask API for serving predictions
+- Model drift monitoring with Evidently
+
+🛠 **Tech Stack**
+`Python` | `scikit-learn` | `Pandas` | `NumPy` | `PyYAML` | `Flask` | `Evidently`
+
+🔗 **Repo:** [MLOps_California_House_Price_Prediction](https://github.com/amargajula123/MLOps_California_House_Price_Prediction)
+
+---
+
+### [🗃️ Distributed Database Access System](https://github.com/amargajula123/distributed-db-gateway-app)
+
+📌 **Overview**  
+Gateway-based access to multiple databases like **MongoDB** and **MySQL** through a unified Flask API.
+
+🎯 **Key Features**
+- Centralized API gateway to interact with MongoDB & MySQL
+- Modular structure to add more DBs in future
+- Routes operations based on client requests
+- Tested using Postman
+
+🛠 **Tech Stack**
+`Flask` | `MongoDB` | `MySQL` | `Postman` | `Python Requests`
+
+🔗 **Repo:** [distributed-db-gateway-app](https://github.com/amargajula123/distributed-db-gateway-app)
+
+---
+
+## 📬 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amar-gajula-6a29b9371) *(replace this with your real LinkedIn)*
+- 🐙 [GitHub](https://github.com/amargajula123)
+- ✉️ Reach me: amar.gajula@example.com *(optional)*
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories or connect with me.*
+
+
